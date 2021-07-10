@@ -55,4 +55,4 @@ This guide explains how to make a custom RPC status on Discord!
 
 ## Contact
 * If you have any questions, you can comment on this gist
-* If you want to contact me, you can join [Vibe Space](https://dsc.gg/Zuxces) or [Bot Dev Zone](https://dsc.gg/Zuxces) 
+* If you want to contact me, you can join [Discord Server](https://dsc.gg/Zuxces) or [Programming Server](https://dsc.gg/Zuxces) 
