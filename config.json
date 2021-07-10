@@ -1,0 +1,28 @@
+{
+    "clientId": "857315904253329431",
+    "rich_presence": {
+        "details": "If im using this status, im AFK",
+        "state": "Got some time left dont I?",
+        "assets": {
+            "largeImageText": "Subscribe to my youtube lmao",
+            "largeImageKey": "pink",
+            "smallImageText": "Check out my website?",
+            "smallImageKey": "large"
+        },
+        "buttons": {
+            "primary": {
+                "buttonLabelText": "YouTube",
+                "buttonRedirectUrl": "http://YouTube.com/Zuxces"
+            },
+            "secondary": {
+                "buttonLabelText": "Reddit",
+                "buttonRedirectUrl": "https://zuxces.net/"
+            }
+        },
+        "timestamps": {
+            "startTimestamp": "91239173",
+            "endTimestamp": "12317903",
+            "useTimer": "true"
+        }
+    }
+}
