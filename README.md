@@ -35,7 +35,7 @@ This guide explains how to make a custom RPC status on Discord!
                 "buttonRedirectUrl": "http://YouTube.com/Zuxces"
             },
             "secondary": {
-                "buttonLabelText": "Reddit",
+                "buttonLabelText": "Website",
                 "buttonRedirectUrl": "https://zuxces.net/"
             }
         },
